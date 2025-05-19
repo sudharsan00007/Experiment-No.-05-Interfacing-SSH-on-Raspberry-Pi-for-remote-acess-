@@ -1,8 +1,8 @@
 # Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
-### NAME
-### ROLL NO:
-### DEPARTMENT 
-### DATE
+### NAME : Sudharsan S
+### ROLL NO:21224040335
+### DEPARTMENT : CSE
+### DATE:19.05.2025
 
 
 
@@ -61,8 +61,10 @@ On Linux/macOS:
 3. Accept the fingerprint (first-time only).
 4. Enter the password when prompted.
 ## SCREEN SHOTS OF THE INTERFACE 
+![image](https://github.com/user-attachments/assets/988e4e0d-461f-4ce5-9a7a-33caa90fbb9c)
+![image](https://github.com/user-attachments/assets/117df742-5fc6-4efd-ad71-d753d17e4dc1)
+![image](https://github.com/user-attachments/assets/66f6dc85-d882-4682-aa17-8f22d419f992)
 
-##  HARDWARE 
 
 
 
